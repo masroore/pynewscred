@@ -22,7 +22,7 @@ setup(
           'Topic :: Software Development :: Libraries',
           'Topic :: Software Development :: Libraries :: Python Modules',
       ],       
-      url='http://www.my.com/',
+      url='https://github.com/masroore/pynewscred',
       keywords="newscred",
       packages=['pynewscred'],
       install_requires = install_requires,

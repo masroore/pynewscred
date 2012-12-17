@@ -2,7 +2,7 @@ Metadata-Version: 1.0
 Name: pynewscred
 Version: 0.1.1
 Summary: Newscred.com REST API Client
-Home-page: https://github.com/rithis/blanche
+Home-page: https://github.com/masroore/pynewscred
 Author: Dr. Masroor Ehsan
 Author-email: masroore@gmail.com
 License: BSD
